@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: cf4077cb6aae74a498ee68c766380519
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8dbf4f10acd0347ee84d79cd77d0df3c, type: 3}
+  streamSettings:
+    scaleFactor: 0.01
+    importMaterials: 1
+    extractTextures: 0
+    extractMaterials: 0
+    textures: []
+    materials: []
+    textureMaxSize: 256
